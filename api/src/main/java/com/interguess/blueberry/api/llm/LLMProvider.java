@@ -1,7 +1,6 @@
 package com.interguess.blueberry.api.llm;
 
 import com.interguess.blueberry.api.exception.LLMSetupException;
-import com.interguess.blueberry.api.llm.response.LLMResponse;
 import lombok.Getter;
 import lombok.Setter;
 import org.jetbrains.annotations.NotNull;
