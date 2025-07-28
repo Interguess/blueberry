@@ -1,0 +1,13 @@
+plugins {
+    id 'java'
+}
+
+group 'com.interguess'
+version 'unknown'
+
+allprojects {
+    repositories {
+        mavenCentral()
+        google()
+    }
+}

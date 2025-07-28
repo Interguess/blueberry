@@ -1,0 +1,5 @@
+rootProject.name = 'blueberry'
+include 'restapi'
+include 'common'
+include 'api'
+include 'bootstrap'
